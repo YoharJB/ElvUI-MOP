@@ -1,0 +1,10 @@
+﻿## Interface: 50400
+## Title: |cff00fcceE|r|cffe5e3e3lvUI|r |cff00fcceM|r|cffe5e3e3icrobar|r |cff00fcceE|r|cffe5e3e3nhancement|r
+## Author: Darth Predator
+## Version: 1.2
+## DefaultState: Enabled
+
+Locales\Load_Locales.xml
+Settings\Load_Settings.xml
+ElvUI_MicrobarEnhancement.lua
+Config\Load_Config.xml
